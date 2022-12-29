@@ -1,0 +1,23 @@
+mongo:
+  api:
+    host: localhost
+    port: 27017
+    login: admin
+    password: admin
+    dbName: kiinseapi
+    authDb: admin
+  opinions:
+    host: localhost
+    port: 27017
+    login: admin
+    password: admin
+    dbName: pkghbot
+    authDb: admin
+
+postgres:
+  fuel:
+    host: localhost
+    port: 5432
+    login: postgres
+    password: postgres
+    dbName: fuelstations

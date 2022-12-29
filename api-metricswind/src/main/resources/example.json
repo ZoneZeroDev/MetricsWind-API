@@ -1,0 +1,26 @@
+{
+  "pluginId": 2315433123,
+  "plugin": {
+    "name": "Plugin",
+    "online": 46,
+    "maxPlayers": 110,
+    "version": "1.1.0-beta.1"
+  },
+  "location": {
+    "country": "Russia",
+    "city": "Saint-Petersburg"
+  },
+  "server": {
+    "core": "Paper-1.19.2",
+    "ip": "192.168.0.1",
+    "port": 25565,
+    "os": "Ubuntu-22.0"
+  },
+  "data": [
+    {
+      "name": "",
+      "graphId": 2312,
+      "value": ""
+    }
+  ]
+}
